@@ -15,8 +15,8 @@ This project does not include code or data and, as such, is not licensed for use
 For any inquiries or further discussions, feel free to reach out:
 
 - **Your Name**
-  - **Email:** [your.email@example.com](mailto:your.email@example.com)
-  - **GitHub:** [YourGitHubUsername](https://github.com/YourGitHubUsername)
+  - **Email:** [griffin.thompson@yale.edu](mailto:griffin.thompson@yale.edu)
+  - **GitHub:** [GriffinThomp1234](https://github.com/GriffinThomp1234)
 
 ## Acknowledgements
 
